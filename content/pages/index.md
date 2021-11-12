@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hola a toda la cumindad hispana.
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.c
+    subtitle: 'Somos Mas Latina tienda hispana, tenemos mas de 10 anos en el negocio'
     actions:
       - label: Contact Me
         url: /contact
