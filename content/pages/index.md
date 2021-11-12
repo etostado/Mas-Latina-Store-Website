@@ -5,7 +5,7 @@ sections:
     title: Hola a toda la cumindad hispana.
     subtitle: >-
       I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      and digital advertisements for you, at an affordable price.c
     actions:
       - label: Contact Me
         url: /contact
