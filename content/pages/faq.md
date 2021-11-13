@@ -1,13 +1,6 @@
 ---
 title: FAQ
-sections:
-  - type: hero_section
-    title: Frequently Asked Questions
-    subtitle: My answers
-    align: center
-    padding_top: medium
-    padding_bottom: small
-    background_color: none
+sections: []
 seo:
   title: Frequently Asked Questions
   description: This is the faq page
