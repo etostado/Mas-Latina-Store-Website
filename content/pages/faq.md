@@ -3,8 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: >-
-      My answers
+    subtitle: My answers
     align: center
     padding_top: medium
     padding_bottom: small
@@ -56,7 +55,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: secondary
-    background_image: images/watercolor.png
+    background_image: /images/tienda hispana (1).png
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
@@ -64,20 +63,20 @@ seo:
   title: Frequently Asked Questions
   description: This is the faq page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Frequently Asked Questions
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the faq page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Frequently Asked Questions
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the faq page
 layout: advanced
 ---
