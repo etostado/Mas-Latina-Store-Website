@@ -24,7 +24,7 @@ sections:
     background_image_opacity: 8
   - type: features_section
     title: My services
-    subtitle: What I do
+    subtitle: Que hacemos
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
