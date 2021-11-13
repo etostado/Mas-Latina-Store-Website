@@ -146,7 +146,9 @@ sections:
         default_value: Escribe tu mensaje aqui
       - input_type: checkbox
         name: consent
-        label: I und
+        label: >-
+          Entiendo que este formulario está almacenando mi información enviada
+          para que puedan ser contactados.
         is_required: true
     submit_label: Enviar Mensaje
     align_vert: top
