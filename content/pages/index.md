@@ -116,7 +116,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >+
+    content: >
       ## LLAMANOS O ENVIANOS UN MENSAJE
 
 
@@ -126,8 +126,10 @@ sections:
 
 
 
-      (972)-570-4955
+      ##### ****
 
+
+      ##### **(972)-570-4955**
     content_align: left
     form_position: right
     form_width: fifty
