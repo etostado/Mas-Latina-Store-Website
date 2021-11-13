@@ -22,26 +22,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - type: grid_section
-    title: Marcas en las que confiamos
-    subtitle: Mis Productos
-    align: center
-    grid_items:
-      - image_alt: Logo 1
-        image_align: center
-      - image_alt: Logo 3
-        image_align: center
-      - image_alt: Logo 4
-        image_align: center
-      - image_alt: Logo 5
-        image_align: center
-      - image_alt: Logo 6
-        image_align: center
-      - image_alt: Logo 8
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: My services
     subtitle: What I do
