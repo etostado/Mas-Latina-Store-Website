@@ -27,13 +27,13 @@ sections:
     subtitle: Que hacemos
     features:
       - content: |
-          Envio de Fax
+          *   Envio de Fax
 
-          Copias
+          *   Copias
 
-          Se completan documentos oficiales
+          *   Se completan documentos oficiales
 
-          Costura (Remiendos y Ruedos)
+          *   Costura (Remiendos y Ruedos)
         actions:
           - label: See Writing Samples
             url: /faq
