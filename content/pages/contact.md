@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contactanos aqui
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: 'llena este formulario con tus preguntas, mensajes o dudas.'
     align: center
     padding_top: medium
     padding_bottom: medium
