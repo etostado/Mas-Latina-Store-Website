@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hola a toda la cumindad hispana.
     subtitle: >-
-      Somos Mas Latina tienda hispana, tenemos mas de 10 aos en el negocio
+      Somos Mas Latina tienda hispana, tenemos mas de 10 anos en el negocio
       ubicados en Irving, TX.
     actions:
       - label: Contact Me
