@@ -55,7 +55,6 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: secondary
-    background_image: /images/tienda hispana (1).png
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
