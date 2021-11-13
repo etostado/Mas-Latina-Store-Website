@@ -40,7 +40,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Mis Productos
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: Marcas en las que confiamos
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
