@@ -55,7 +55,7 @@ sections:
           Tamales de elote, pisques, y gallina, preaparados con el orginal sazon
           Salvadoreno
         actions: []
-        image: images/feature-3.svg
+        image: /images/tienda hispana (2).png
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
