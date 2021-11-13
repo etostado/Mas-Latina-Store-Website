@@ -35,7 +35,7 @@ sections:
 
           *   Costura (Remiendos y Ruedos)
         actions:
-          - label: See Writing Samples
+          - label: Llamanos
             url: /faq
             style: primary
             has_icon: true
