@@ -127,9 +127,10 @@ sections:
       #####
 
 
+      ##### **Telefono:**
 
 
-      ##### **(972)-570-4955**
+      **(972)-570-4955**
     content_align: left
     form_position: right
     form_width: fifty
