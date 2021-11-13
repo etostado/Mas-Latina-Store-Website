@@ -26,8 +26,7 @@ sections:
     title: Mis Servicios
     subtitle: Que hacemos
     features:
-      - subtitle: Se envian fax y sacamos copias
-        content: |
+      - content: |
           Envio de Fax
 
           Copias
