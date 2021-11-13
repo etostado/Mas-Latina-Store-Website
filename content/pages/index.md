@@ -23,7 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    title: My services
+    title: Mis Servicios
     subtitle: Que hacemos
     features:
       - title: Content Creation
