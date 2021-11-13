@@ -7,7 +7,7 @@ sections:
       Somos Mas Latina tienda hispana, tenemos mas de 10 anos en el negocio
       ubicados en Irving, TX.
     actions:
-      - label: Contact Me
+      - label: Contactanos
         url: /contact
         style: primary
     image: /images/Untitled design (1).png
