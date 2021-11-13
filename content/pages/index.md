@@ -51,10 +51,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: Tamales y Pan Salvadoreno
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Tamales de elote, pisques, y gallina, preaparados con el orginal sazon
+          Salvadoreno
         actions: []
         image: images/feature-3.svg
         image_alt: Feature 3 illustration
