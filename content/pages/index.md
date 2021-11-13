@@ -131,7 +131,7 @@ sections:
     form_action: /GRACIAS
     form_fields:
       - input_type: text
-        name: NOM
+        name: NOMRE
         label: Name
         default_value: Your name
         is_required: true
