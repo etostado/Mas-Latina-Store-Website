@@ -34,13 +34,7 @@ sections:
           *   Se completan documentos oficiales
 
           *   Costura (Remiendos y Ruedos)
-        actions:
-          - label: Llamanos
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
         media_position: right
