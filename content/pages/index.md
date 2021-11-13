@@ -54,6 +54,9 @@ sections:
         content: >
           Tamales de elote, pisques, y gallina, preaparados con el orginal sazon
           Salvadoreno
+
+
+          Ademas te ofresemos el pan salvadoreno sabroso y listo para degustar.
         actions: []
         image: /images/tienda hispana (2).png
         image_alt: Feature 3 illustration
