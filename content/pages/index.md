@@ -66,7 +66,7 @@ sections:
     align: center
     background_color: none
   - section_id: Playeras Deportivas
-    title: lorem-ipsum
+    title: Player
     subtitle: lorem-ipsum
     title_align: left
     content: >-
