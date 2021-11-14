@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       Somos Mas Latina tienda hispana,ubicados en Irving, TX. Ofreciendo los
       mejores productos de Mexico y Centroamerica.
-    actions:
-      - label: Contactanos
-        url: /contact
-        style: primary
+    actions: []
     image: /images/Untitled design (1).png
     image_alt: A smiling woman
     media_position: right
