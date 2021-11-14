@@ -26,7 +26,7 @@ sections:
     title: Mis Servicios
     subtitle: Que hacemos
     features:
-      - content: |
+      - content: |+
           *   Envio de Fax
 
           *   Copias
@@ -34,6 +34,11 @@ sections:
           *   Se completan documentos oficiales
 
           *   Costura (Remiendos y Ruedos)
+
+          *   Recargas Telefonicas
+
+          *   Envios de Dinero
+
         actions: []
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
