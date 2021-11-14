@@ -66,7 +66,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Playeras de tu Seleccion
     grid_items:
       - content: |
           **
