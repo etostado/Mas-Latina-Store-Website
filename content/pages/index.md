@@ -71,7 +71,7 @@ sections:
     align: center
     background_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Playeras de tu equipo favorito
     subtitle: lorem-ipsum
     content: |
       ## ![](/images/Untitled%20design%20\(2\).png)
