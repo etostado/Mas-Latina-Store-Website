@@ -152,6 +152,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    section_id: Playeras Deportivas
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
