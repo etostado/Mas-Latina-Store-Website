@@ -37,7 +37,7 @@ sections:
           *   Envios de Dinero
 
         actions: []
-        image: images/feature-1.svg
+        image: /images/5.png
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
