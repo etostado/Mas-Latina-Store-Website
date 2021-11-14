@@ -77,9 +77,7 @@ sections:
       ## ![](/images/Untitled%20design%20\(2\).png)
     actions: []
     image_alt: lorem-ipsum
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut laborea
+    video_embed_html: Lidunt ut laborea
     media_position: top
     media_width: fifty
     align: left
