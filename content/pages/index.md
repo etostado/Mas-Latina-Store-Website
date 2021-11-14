@@ -69,7 +69,7 @@ sections:
     title: Playeras de tu Seleccion
     grid_items:
       - content: |
-          **
+          #### **Honduras**
         image_position: left
         image_width: twenty-five
         image: /images/61kisxNn7ML._AC_UX679_.jpg
