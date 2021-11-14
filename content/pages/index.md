@@ -65,50 +65,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: grid_section
-    title: Playeras de tu Seleccion
-    grid_items:
-      - content: |
-          #### **Honduras**
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: >-
-          /images/a56c7a29-0d5c-4d2a-90dd-3b329a66cf42_bfe9b9aa-2b9d-4fb0-861a-b3891f6a9800_grande.jpg
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
-
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
-        image: /images/s-l1600.jpg
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
-
-
-          **Gordon Norman,** *Web Designer, Local Business*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 12
   - type: form_section
     content: >
       ## LLAMANOS O ENVIANOS UN MENSAJE
