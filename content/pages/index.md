@@ -79,7 +79,8 @@ sections:
 
 
           **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
+        image: >-
+          /images/a56c7a29-0d5c-4d2a-90dd-3b329a66cf42_bfe9b9aa-2b9d-4fb0-861a-b3891f6a9800_grande.jpg
         image_position: left
         image_width: twenty-five
       - content: >-
