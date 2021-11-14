@@ -77,6 +77,7 @@ sections:
           **Hanson Deck,** *App Developer, Studio*
         image_position: left
         image_width: twenty-five
+        image: /images/61kisxNn7ML._AC_UX679_.jpg
       - content: >-
           Alyvia really understands who our customers are and what tone of voice
           to use when communicating with them.
