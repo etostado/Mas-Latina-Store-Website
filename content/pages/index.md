@@ -60,7 +60,7 @@ sections:
 
           Ademas te ofresemos el pan salvadoreno sabroso y listo para degustar.
         actions: []
-        image: /images/tienda hispana (2).png
+        image: /images/2.png
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
