@@ -43,10 +43,10 @@ sections:
         media_width: sixty
       - title: Mis Productos
         subtitle: Marcas en las que confiamos
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >+
+          Todas nuestras marcas son las marcas confiables de Centroamerica y
+          Mexico.
+
         actions: []
         image: /images/tienda hispana (1)-507febc3.png
         image_alt: Feature 2 illustration
