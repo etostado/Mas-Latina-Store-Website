@@ -159,7 +159,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Personal Theme
+      value: Mas Latina
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
