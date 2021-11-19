@@ -161,7 +161,10 @@ seo:
     - name: 'twitter:title'
       value: Mas Latina
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: >-
+        Tienda de productos Centroamericanos , atendida por Nuestra Familia
+        originaria de El Salvador, tenemos Tamales de Elote hechos por Manos
+        Salvadorenas.
     - name: 'twitter:image'
       value: /images/Mas Latina-4738f69c.png
       relativeUrl: true
