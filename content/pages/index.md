@@ -138,7 +138,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Mas L
+  title: Mas Latina Irving
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
