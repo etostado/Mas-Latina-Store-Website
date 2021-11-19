@@ -162,5 +162,9 @@ seo:
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
+    - name: 'og:image'
+      value: /images/MasLatinaFB-e665922d.PNG
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
