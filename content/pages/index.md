@@ -139,7 +139,10 @@ sections:
     background_image_opacity: 8
 seo:
   title: Mas Latina Irving
-  description: The preview of the Personal theme
+  description: >-
+    Tienda Hispana ubicada en Irving TX- 972-607-5245 - 2809 N MacArthur Blvd,
+    Irving TX 75062 - Tamales - Pan Salvadoreño - Recargas telefonicas - Envios
+    de dinero
   extra:
     - name: 'og:type'
       value: website
