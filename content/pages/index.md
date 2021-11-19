@@ -166,7 +166,7 @@ seo:
         originaria de El Salvador, tenemos Tamales de Elote hechos por Manos
         Salvadorenas.
     - name: 'twitter:image'
-      value: /images/Mas Latina-4738f69c.png
+      value: /images/MasLatinaFB-b1370c68.PNG
       relativeUrl: true
     - name: 'og:image'
       value: /images/MasLatinaFB-e665922d.PNG
