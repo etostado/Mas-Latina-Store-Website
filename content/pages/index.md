@@ -151,7 +151,10 @@ seo:
       value: Mas Latina Irving
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Tienda de productos Centroamericanos , atendida por Nuestra Familia
+        originaria de El Salvador, tenemos Tamales de Elote hechos por Manos
+        Salvadorenas.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
