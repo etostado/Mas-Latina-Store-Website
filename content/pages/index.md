@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Mas Latina
 sections:
   - type: hero_section
     title: Hola a toda la cumindad hispana.
