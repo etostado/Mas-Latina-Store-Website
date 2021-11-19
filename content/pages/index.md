@@ -163,7 +163,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: /images/Mas Latina-4738f69c.png
       relativeUrl: true
     - name: 'og:image'
       value: /images/MasLatinaFB-e665922d.PNG
