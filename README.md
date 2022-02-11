@@ -1,18 +1,5 @@
 # ✨ Personal Nextjs Theme ✨
 
-This is Stackbit's "Personal" theme built with [Next.js](https://nextjs.org/) and
-powered by content stored in files.
-
-Click the button below to create a new website from this theme using Stackbit:
-
-<p align="center">
-  <a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/personal-nextjs-src&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes"><img alt="Create with Stackbit" src="https://assets.stackbit.com/badge/create-with-stackbit.svg"/></a>
-</p>
-
-[Live Site Demo](https://themes.stackbit.com/demos/personal/)
-
-<img src="https://themes.stackbit.com/images/personal-demo-1024x768.png" width="600">
-
 The theme can be used to create a static website that is hosted by a serverless
 deployment platform such as [Netlify](https://www.netlify.com). The contents of
 the website are stored in git with the rest of the site's code.
